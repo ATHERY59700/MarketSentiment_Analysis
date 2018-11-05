@@ -5,11 +5,13 @@ beating,negative
 better,positive
 better margins,positive
 better than expected,positive
+buoyed,positive
 cancellation,negative
 cancelled,negative
 challenged,negative
 challenging,negative
 concerns,negative
+consolidated,postive
 contaminated,negative
 declined,negative
 delivering,positive
@@ -25,8 +27,8 @@ favourable,positive
 first,positive
 health ,positive
 high cost,negative
-higher costs,negative
 high demand,positive
+higher costs,negative
 higher earnings,positive
 improved,positive
 improvement,positive
@@ -35,10 +37,11 @@ issued warning letter,negative
 jump,positive
 lawsuit,negative
 legal action,negative
-lower costs,positive
 low demand,negative
+lower costs,positive
 lower earnings,negative
 lower than expected sales,negative
+missed,negative
 mistake,negative
 much better,positive
 new,positive
@@ -62,8 +65,8 @@ significant violations,negative
 slowdown,negative
 stability,positive
 Stellar,positive
-strong growth,positive
 strong demand,positive
+strong growth,positive
 struggle,negative
 struggled,negative
 successful,positive
@@ -71,8 +74,8 @@ toll,negative
 tough,negative
 uncertain,negative
 upgrade,negative
-upgrades,negative
 upgraded,negative
+upgrades,negative
 violations,negative
 warned,negative
 warning,negative
